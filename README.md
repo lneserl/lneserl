@@ -1,10 +1,17 @@
-# Hi, I like decaf coffee 👋 ☕️ 😊
+# Hi, I like my coffee decaf 👋 🌞
 
 
 
 <img align="left" src="pixel-art.png">
 
-### 🌴 I also enjoy life by the beach in the sun and that is why I have tried my best to master:
+### 🌴 I also enjoy life by the beach in the sun and that is why I have tried my best to learn:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Languages:** Go, Java, Python, C#, C++, C, Assembly\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Cloud stuff:** Google Cloud Platform, Kubernetes, Istio\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Security stuff:** Cryptography, Network Security, Cloud Security, Malware Analysis\ 
+
+
+
 
 <!--
 **lneserl/lneserl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
