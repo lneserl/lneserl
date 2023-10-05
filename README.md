@@ -22,7 +22,10 @@ My security certifications' progress 😐 :
 **(ISC)² Certified Information Systems Security Professional** - TODO 
 
 
+<br>
+<br>
 
+***I'm currently working on my master's dissertation regarding blockchain, cryptocurrencies and insurance. Stay tuned 👀***
 
 
 <!--
