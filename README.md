@@ -8,7 +8,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Languages:** Go, Java, Python, C#, C++, C, Assembly\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Cloud stuff:** Google Cloud Platform, Kubernetes, Istio\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Security stuff:** Cryptography, Network Security, Cloud Security, Malware Analysis\ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Security stuff:** Cryptography, Network Security, Cloud Security, Malware Analysis 
+
+
+
+<br>
+<br>
+
+My security certifications' progress 😐 :
+
+**(CompTIA) Security+** - TODO\
+**(EC-Council) Certified Ethical Hacker** - TODO\
+**(ISC)² Certified Information Systems Security Professional** - TODO 
+
 
 
 
