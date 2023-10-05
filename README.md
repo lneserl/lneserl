@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I like decaf coffee 👋 ☕️ 😊
+
+### 🌴 I also enjoy life by the beach in the sun and that is why I have tried my best to master:
+
+![Alt text](image link)
 
 <!--
 **lneserl/lneserl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
